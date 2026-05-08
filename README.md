@@ -1,6 +1,6 @@
 # Hi, I'm Ali Jabowr 👋
 
-### Full Stack Developer | TypeScript & Go Enthusiast
+### Full Stack Developer | TypeScript & Python Enthusiast
 
 - 🚀 Building scalable applications with **TypeScript, Node.js, Python, and Go**
 - 💡 Passionate about **clean code, software architecture, and problem-solving**
